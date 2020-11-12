@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2020-11-12T11:39:48.851Z</updated>
+  <updated>2020-11-12T12:37:40.101Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>切记备份</title>
+    <link href="http://example.com/2020/11/12/%E5%88%87%E8%AE%B0%E5%A4%87%E4%BB%BD/"/>
+    <id>http://example.com/2020/11/12/%E5%88%87%E8%AE%B0%E5%A4%87%E4%BB%BD/</id>
+    <published>2020-11-12T12:34:43.000Z</published>
+    <updated>2020-11-12T12:37:40.101Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="切记备份"><a href="#切记备份" class="headerlink" title="切记备份"></a>切记备份</h1><p>之前没有听杰哥的话，没有对整个blog文件夹进行备份，所以换了电脑后，以前的blog配置都没了，github上的仓库里也只有网页源代码。。这次就先把备份搞好吧！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;切记备份&quot;&gt;&lt;a href=&quot;#切记备份&quot; class=&quot;headerlink&quot; title=&quot;切记备份&quot;&gt;&lt;/a&gt;切记备份&lt;/h1&gt;&lt;p&gt;之前没有听杰哥的话，没有对整个blog文件夹进行备份，所以换了电脑后，以前的blog配置都没了，github上的仓库里也只有</summary>
+      
+    
+    
+    
+    
+    <category term="whatever" scheme="http://example.com/tags/whatever/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
